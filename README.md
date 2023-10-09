@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-  <img height="130" src="https://ghchart.rshah.org/ankkrs"  />
+  <img height="130" src="https://ghchart.rshah.org/ankitsimari"  />
 </div>
 
 <div align="center">
