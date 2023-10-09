@@ -14,7 +14,7 @@
 
 ###
 
-<h6 align="left"><br>- 🏠 I'm from Samastipur, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to listen to play cricket.<br><br>
+<h6 align="left"><br>- 🏠 I'm from Samastipur, Bihar.<br>- 📚 Currently learning Full Stack Web Development.<br>- ⚡ In my free time, I love to play cricket.<br><br>
   
 ## Contact</h6>
 - You can reach me at [erankkrs@email.com](mailto:erankkrs@email.com)
